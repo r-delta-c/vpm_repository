@@ -1,7 +1,7 @@
 {
     "name":"DeltaField",
     "id":"com.deltafield.shader_common",
-    "url":"https://r-delta-c.github.io/vpm_repository/index.json",
+    "url":"https://r-delta-c.github.io/vpm_repository/source.json",
     "author":{
         "name":"DeltaField"
     },
