@@ -1,12 +1,22 @@
 {
     "name":"DeltaField",
-    "id":"com.deltafield.shader_common",
+    "id":"io.github.deltafield.vpm",
     "url":"https://r-delta-c.github.io/vpm_repository/index.json",
     "author":{
         "name":"DeltaField"
     },
     "description":"",
-    "githubRepos":[
-        "r-delta-c/DeltaField-Shader-Commons"
-    ]
+    "infoLink":{
+        "url":"https://r-delta-c.github.io/vpm_repository",
+        "text":"View on GitHub"
+    },
+    "packages":{
+        "com.deltafield.shader_common":{
+            "versions":{
+                "dev-1.0.0":{
+                    "url":"https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/dev-1.0.0/DeltaField-Shader-Commons-dev-1.0.0.zip"
+                }
+            }
+        }
+    }
 }
