@@ -10,23 +10,13 @@
         "url":"https://r-delta-c.github.io/vpm_repository",
         "text":"View on GitHub"
     },
-    "packages":{
-        "com.deltafield.shader_common":{
-            "versions":{
-                "dev-1.0.0":{
-                    "name":"com.deltafield.shader_commons",
-                    "displayName":"DeltaField-Shader-Commons",
-                    "versions":"dev-1.0.0",
-                    "unity":"2022.3",
-                    "description":"",
-                    "keywords":["shader", "include", "hlsl"],
-                    "license":"MIT",
-                    "vpmDependencies":{
-                        
-                    },
-                    "url":"https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/dev-1.0.0/DeltaField-Shader-Commons-dev-1.0.0.zip"
-                }
-            }
+    "packages":[
+        {
+            "name":"com.deltafield.shader_common",
+            "releases":[
+                "https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/dev-1.0.0/DeltaField-Shader-Commons-dev-1.0.0.zip",
+                "https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/0.0.0/-0.0.0.zip"
+            ]
         }
-    }
+    ]
 }
