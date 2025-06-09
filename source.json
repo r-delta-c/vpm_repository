@@ -13,7 +13,7 @@
     "packages":{
         "com.deltafield.shader_common":{
             "versions":{
-                "dev-1.0.0":{
+                "1.0.0":{
                     "url":"https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/dev-1.0.0/DeltaField-Shader-Commons-dev-1.0.0.zip"
                 }
             }
