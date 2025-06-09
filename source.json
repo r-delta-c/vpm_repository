@@ -5,7 +5,8 @@
     "author":{
         "name":"DeltaField"
     },
+    "description":"",
     "githubRepos":[
-        "r-delta-c/com.deltafield.shader_common"
+        "r-delta-c/DeltaField-Shader-Commons"
     ]
 }
