@@ -13,7 +13,17 @@
     "packages":{
         "com.deltafield.shader_common":{
             "versions":{
-                "1.0.0":{
+                "dev-1.0.0":{
+                    "name":"com.deltafield.shader_commons",
+                    "displayName":"DeltaField-Shader-Commons",
+                    "versions":"dev-1.0.0",
+                    "unity":"2022.3",
+                    "description":"",
+                    "keywords":["shader", "include", "hlsl"],
+                    "license":"MIT",
+                    "vpmDependencies":{
+                        
+                    },
                     "url":"https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/dev-1.0.0/DeltaField-Shader-Commons-dev-1.0.0.zip"
                 }
             }
