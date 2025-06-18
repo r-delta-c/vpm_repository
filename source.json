@@ -12,7 +12,7 @@
     "packages":{
         "com.deltafield.shader_commons":{
             "versions":{
-                "0.2.0-exp.1":{
+                "0.2.0":{
                     "name":"com.deltafield.shader_commons",
                     "url":"https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/0.2.0-exp.1/DeltaField-Shader-Commons-0.2.0-exp.1.zip",
                     "zipSHA256":"646365cf7fc5349958eb7e57c8cf927be070f6ea51c7b832d76a5e68b6e77adf"
@@ -21,7 +21,7 @@
         },
         "com.deltafield.spatialdistortion":{
             "versions":{
-                "0.0.1-exp.1":{
+                "0.0.1":{
                     "name":"com.deltafield.spatialdistortion",
                     "url":"https://github.com/r-delta-c/SpatialDistortion/releases/download/0.0.1-exp.1/SpatialDistortion-0.0.1-exp.1.zip",
                     "zipSHA256":"cdd3639d7c98bcb10b5b1759a24d7a1eab4ecca17c4d40be976326db3d948aa9"
@@ -30,7 +30,7 @@
         },
         "com.deltafield.virtualsun":{
             "versions":{
-                "0.0.0-exp.1":{
+                "0.0.0":{
                     "name":"com.deltafield.virtualsun",
                     "url":"https://github.com/r-delta-c/VirtualSun/releases/download/0.0.0-exp.1/VirtualSun-0.0.0-exp.1.zip",
                     "zipSHA256":"d6046036ce8d857f0fcce5163a4c406404c7092a0efbf0e3cdc64250886b622f"
