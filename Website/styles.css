@@ -16,6 +16,12 @@ body {
   justify-content: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: var(--neutral-foreground-rest);
+  overflow: hidden;
+}
+
+.display-fit {
+  position: absolute;
+  width: 100%;
 }
 
 .hidden {
@@ -33,9 +39,14 @@ body {
 }
 
 .content {
+  pointer-events: none;
   max-width: 1000px;
   width: 100%;
   margin: 0 auto;
+}
+
+.pointer {
+  pointer-events: auto;
 }
 
 .align-items-center {
