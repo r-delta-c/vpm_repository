@@ -20,12 +20,14 @@
         {
             "name":"com.deltafield.spatialdistortion",
             "releases":[
+                "https://github.com/r-delta-c/SpatialDistortion/releases/download/1.0.0-exp.1/SpatialDistortion-1.0.0-exp.1.zip",
                 "https://github.com/r-delta-c/SpatialDistortion/releases/download/0.0.1-exp.1/SpatialDistortion-0.0.1-exp.1.zip"
             ]
         },
         {
             "name":"com.deltafield.virtualsun",
             "releases":[
+                "https://github.com/r-delta-c/VirtualSun/releases/download/1.0.0-exp.1/VirtualSun-1.0.0-exp.1.zip",
                 "https://github.com/r-delta-c/VirtualSun/releases/download/0.0.1-exp.1/VirtualSun-0.0.1-exp.1.zip",
                 "https://github.com/r-delta-c/VirtualSun/releases/download/0.0.0-exp.1/VirtualSun-0.0.0-exp.1.zip"
             ]
