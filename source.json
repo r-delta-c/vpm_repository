@@ -6,8 +6,6 @@
         "name":"DeltaField"
     },
     "infoLink":{
-        "url":"https://r-delta-c.github.io/vpm_repository",
-        "text":"View on GitHub"
     },
     "packages":[
         {
@@ -30,6 +28,12 @@
                 "https://github.com/r-delta-c/VirtualSun/releases/download/1.0.0-exp.1/VirtualSun-1.0.0-exp.1.zip",
                 "https://github.com/r-delta-c/VirtualSun/releases/download/0.0.1-exp.1/VirtualSun-0.0.1-exp.1.zip",
                 "https://github.com/r-delta-c/VirtualSun/releases/download/0.0.0-exp.1/VirtualSun-0.0.0-exp.1.zip"
+            ]
+        },
+        {
+            "name":"com.deltafield.day-and-nightskyboxshader",
+            "releases":[
+                "https://github.com/r-delta-c/Day-and-NightSkyboxShader/releases/download/1.0.0/Day-and-NightSkyboxShader-1.0.0.zip"
             ]
         }
     ]
