@@ -16,6 +16,12 @@
             ]
         },
         {
+            "name":"com.deltafield.meshhologram",
+            "releases":[
+                "https://github.com/r-delta-c/MeshHologram/releases/download/0.0.0/MeshHologram-0.0.0.zip"
+            ]
+        },
+        {
             "name":"com.deltafield.spatialdistortion",
             "releases":[
                 "https://github.com/r-delta-c/SpatialDistortion/releases/download/1.0.0-exp.1/SpatialDistortion-1.0.0-exp.1.zip",
