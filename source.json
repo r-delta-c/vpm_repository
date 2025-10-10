@@ -11,6 +11,7 @@
         {
             "name":"com.deltafield.shader_commons",
             "releases":[
+                "https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/1.1.1/DeltaField-Shader-Commons-1.1.1.zip",
                 "https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/1.0.0/DeltaField-Shader-Commons-1.0.0.zip",
                 "https://github.com/r-delta-c/DeltaField-Shader-Commons/releases/download/0.2.0-exp.1/DeltaField-Shader-Commons-0.2.0-exp.1.zip"
             ]
@@ -18,6 +19,7 @@
         {
             "name":"com.deltafield.meshhologram",
             "releases":[
+                "https://github.com/r-delta-c/MeshHologram/releases/download/0.2.0-exp.3/MeshHologram-0.2.0-exp.3.zip",
                 "https://github.com/r-delta-c/MeshHologram/releases/download/0.1.5/MeshHologram-0.1.5.zip",
                 "https://github.com/r-delta-c/MeshHologram/releases/download/0.1.4/MeshHologram-0.1.4.zip",
                 "https://github.com/r-delta-c/MeshHologram/releases/download/0.1.3/MeshHologram-0.1.3.zip",
