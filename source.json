@@ -19,6 +19,7 @@
         {
             "name":"com.deltafield.meshhologram",
             "releases":[
+                "https://github.com/r-delta-c/MeshHologram/releases/download/0.2.1/MeshHologram-0.2.1.zip",
                 "https://github.com/r-delta-c/MeshHologram/releases/download/0.2.0/MeshHologram-0.2.0.zip",
                 "https://github.com/r-delta-c/MeshHologram/releases/download/0.2.0-exp.3/MeshHologram-0.2.0-exp.3.zip",
                 "https://github.com/r-delta-c/MeshHologram/releases/download/0.1.5/MeshHologram-0.1.5.zip",
